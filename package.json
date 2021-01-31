@@ -1,5 +1,5 @@
 {
-  "name": "@nestjs/azure-database",
+  "name": "@SnapStef/azure-database",
   "version": "1.0.0",
   "description": "The Azure Table Storage module for Nest framework (node.js)",
   "author": {
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nestjs/azure-database.git"
+    "url": "https://github.com/SnapStef/azure-database.git"
   },
   "scripts": {
     "test": "jest --passWithNoTests",
